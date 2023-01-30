@@ -1,9 +1,13 @@
 # Project Proposal
 
-## Project title
+### Project title
 
-## What and Why
+Game Time
 
-## For Whom?
+### What and Why
 
-## Scope
+### For Whom?
+
+### How?
+
+### Scope
