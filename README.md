@@ -25,7 +25,7 @@ Simply enter the name of the game you are searching for, and games that matches 
 
 Check the CURRENT DEAL page for games that are currently on sale. Games at its all time low price will be indicated by a special label. Games in this category can also be sorted by price and % discount.
 
-Log in to save games to your wish list and get notifications when it's at or below previous lowest price.
+Log in to save games to your wish list and get notifications when it's on sale or at or below previous lowest price.
 
 Comments on games to help others decide.
 
