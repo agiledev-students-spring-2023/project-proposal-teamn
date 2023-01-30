@@ -17,7 +17,7 @@ For people who are waiting for the lowest price, this will show the All Time Low
 
 ### For Whom?
 
-For 
+For anyone willing to save some money on game softwares.
 
 ### How?
 
@@ -27,7 +27,7 @@ Check the CURRENT DEAL page for games that are currently on sale. Games at its a
 
 Log in to save games to your wish list and get notifications when it's at or below previous lowest price.
 
-Comments on games.
+Comments on games to help others decide.
 
 ### Scope
 
