@@ -23,7 +23,7 @@ For anyone willing to save some money on game softwares.
 
 Simply enter the name of the game you are searching for, and games that matches your input will come up. Tap on a game for further details.
 
-Check the CURRENT DEAL page for games that are currently on sale. Games at its all time low price will be indicated by a special label.
+Check the CURRENT DEAL page for games that are currently on sale. Games at its all time low price will be indicated by a special label. Games in this category can also be sorted by price and % discount.
 
 Log in to save games to your wish list and get notifications when it's at or below previous lowest price.
 
@@ -32,4 +32,11 @@ Comments on games to help others decide.
 ### Scope
 
 Not sure if this makes any sense since I have never done or created a similar project before.
+
+Interface
+
+Find Database for game infos and prices.
+
+Database integration to store the comments and reviews
+
 
