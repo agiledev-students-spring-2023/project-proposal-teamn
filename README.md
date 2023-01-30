@@ -1,2 +1,9 @@
 # Project Proposal
-Delete the contents of this file 
+
+## Project title
+
+## What and Why
+
+## For Whom?
+
+## Scope
